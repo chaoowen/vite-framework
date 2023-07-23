@@ -1,0 +1,70 @@
+{
+  "home": "vuetify + vite framework manual",
+  "button": {
+    "submit": "submit",
+    "confirm": "confirm",
+    "cancel": "cancel",
+    "delete": "delete",
+    "back": "back",
+    "exit": "exit",
+    "accept": "accept",
+    "decline": "decline",
+    "disabled": "disabled"
+  },
+  "alert": {
+    "success": "success",
+    "error": "error",
+    "warning": "warning: please try again"
+  },
+  "page": {
+    "home": {
+      "title": "home"
+    },
+    "button": {
+      "title": "buttons",
+      "text": "text",
+      "icon": "icon",
+      "textAndIcon": "text with icon"
+    },
+    "popup": {
+      "title": "popups",
+      "dialog": "dialogs",
+      "snackbar": "snackbars",
+      "alert": "alerts"
+    },
+    "article": {
+      "title": "articles",
+      "hover": "hover change color",
+      "badge": "badge dot",
+      "rating": "rating"
+    },
+    "table": {
+      "title": "tables",
+      "tableRegular": "table with header",
+      "tableFullWidth": "full width table",
+      "tableWithFixedHeader": "table with fixed header",
+      "user": "user",
+      "date": "date",
+      "reason": "reason",
+      "editor": "editor",
+      "editDate": "edit date"
+    },
+    "form": {
+      "title": "forms",
+      "checkbox": "checkbox",
+      "customCheckbox": "custom checkbox",
+      "radio": "radio",
+      "customRadio": "custom radio",
+      "dropdown": "dropdown",
+      "tooltip": "tooltip",
+      "select": "select",
+      "selectSingle": "single select",
+      "selectMultiple": "multiple select"
+    }
+  },
+  "email": "email",
+  "date": "date",
+  "subject": "subject",
+  "message": "message",
+  "upload": "upload"
+}

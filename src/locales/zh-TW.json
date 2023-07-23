@@ -1,0 +1,71 @@
+{
+  "home": "vuetify + vite 架構使用",
+  "button": {
+    "submit": "送出",
+    "confirm": "確認",
+    "cancel": "取消",
+    "delete": "刪除",
+    "back": "返回",
+    "exit": "離開",
+    "accept": "接受",
+    "decline": "拒絕",
+    "disabled": "禁用"
+  },
+  "alert": {
+    "success": "成功",
+    "error": "錯誤",
+    "warning": "發生錯誤，請稍後再試"
+  },
+  "page": {
+    "home": {
+      "title": "首頁"
+    },
+    "button": {
+      "title": "按鈕",
+      "text": "純文字",
+      "icon": "圖示",
+      "textAndIcon": "文字與圖示"
+    },
+    "popup": {
+      "title": "彈窗與提示",
+      "dialog": "彈窗",
+      "snackbar": "提示文字",
+      "alert": "提示文字"
+    },
+    "article": {
+      "title": "文章小幫手",
+      "hover": "滑鼠效果",
+      "badge": "提示點",
+      "rating": "評分"
+    },
+    "table": {
+      "title": "表格",
+      "tableRegular": "一般表格",
+      "tableFullWidth": "滿版表格",
+      "tableWithFixedHeader": "固定表頭的表格",
+      "table": "表格",
+      "user": "使用者",
+      "date": "申請日期",
+      "reason": "原因",
+      "editor": "修改者",
+      "editDate": "修改日期"
+    },
+    "form": {
+      "title": "表單",
+      "checkbox": "複選框",
+      "customCheckbox": "客製化複選框",
+      "radio": "單選框",
+      "customRadio": "客製化單選框",
+      "dropdown": "選單列",
+      "tooltip": "提示文字",
+      "select": "下拉式選單",
+      "selectSingle": "單選下拉式選單",
+      "selectMultiple": "複選下拉式選單"
+    }
+  },
+  "email": "信箱",
+  "date": "日期",
+  "subject": "標題",
+  "message": "訊息內容",
+  "upload": "上傳"
+}
